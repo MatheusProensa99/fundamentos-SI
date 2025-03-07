@@ -20,9 +20,7 @@
 
 - Integração de Sistemas é o processo de conectar diferentes sistemas para que eles compartilhem dados e funcionem juntos de forma coordenada. Isso ajuda a melhorar a eficiência e evitar erros. A integração pode ser:
 
-- Dados: Conectar fontes de dados para facilitar o acesso.
-- Processos: Coordenar processos entre diferentes áreas.
-- Aplicativos: Fazer sistemas diferentes trabalharem juntos.
-- Rede: Conectar redes e trocar dados entre elas.
-- Front-end e Back-end: Unir o que o usuário vê com o processamento dos dados.
-- Plataforma: Integrar sistemas locais e soluções na nuvem.
+- Por arquivos: Os sistemas trocam dados utilizando arquivos, como XML, CSV, TXT, entre outros.
+- Por banco de dados: Sistemas compartilham informações por meio de um banco de dados compartilhado, acessível por ambos.
+- Via serviços web: Facilita a comunicação entre sistemas diferentes pela internet, utilizando protocolos padrão como HTTP e SOAP.
+- Por API: Permite a comunicação entre sistemas através de uma interface padronizada, utilizando protocolos e ferramentas que definem como os dados serão trocados.
