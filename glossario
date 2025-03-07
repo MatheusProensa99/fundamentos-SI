@@ -1,1 +1,28 @@
+1) O que são Sistemas de Informação?
+- É um sistema composto por vários componentes que trabalham juntos para capturar, processar, armazenar e compartilhar informações, com o objetivo de auxiliar na tomada de decisões.
 
+2) Para que servem?
+- Apoiar decisões: Fornecem dados e relatórios que ajudam os gestores a tomar decisões mais informadas.
+- Aumentar a eficiência: Automatizam processos e reduzem a necessidade de trabalho manual.
+- Facilitar a comunicação: Permitindo a troca rápida de informações entre setores e equipes.
+- Auxiliar no planejamento estratégico: Oferecem análises e relatórios que ajudam a identificar tendências e oportunidades.
+- Integrar dados: Garantem que diferentes áreas da empresa compartilhem e utilizem as mesmas informações de forma consistente.
+
+4) Categorias:
+- Sistemas Colaborativos e de Comunicação — Facilitam a interação e colaboração entre equipes, especialmente em contextos de trabalho remoto. Exemplo: Microsoft Teams, Slack.
+- Sistemas de Apoio à Decisão (DSS) — Ajudam na análise de diferentes cenários para apoiar decisões estratégicas. Exemplo: ferramentas de Business Intelligence (BI) para prever demandas.
+- Sistemas de Gestão do Conhecimento (KMS) — São usados para armazenar e compartilhar o conhecimento dentro da organização. Exemplo: wikis corporativos.
+- Sistemas de Informação Executiva (EIS) — Fornecem painéis de controle que permitem aos executivos monitorar dados cruciais para a empresa. Exemplo: dashboards financeiros.
+- Sistemas de Informações Gerenciais (MIS) — Geram relatórios e análises para avaliar o desempenho organizacional. Exemplo: relatórios de vendas.
+- Sistemas de Processamento de Transações (TPS) — São responsáveis por registrar as transações diárias e operacionais. Exemplo: sistema de ponto eletrônico.
+
+5) Integração de Sistemas:
+
+- Integração de Sistemas é o processo de conectar diferentes sistemas para que eles compartilhem dados e funcionem juntos de forma coordenada. Isso ajuda a melhorar a eficiência e evitar erros. A integração pode ser:
+
+- Dados: Conectar fontes de dados para facilitar o acesso.
+- Processos: Coordenar processos entre diferentes áreas.
+- Aplicativos: Fazer sistemas diferentes trabalharem juntos.
+- Rede: Conectar redes e trocar dados entre elas.
+- Front-end e Back-end: Unir o que o usuário vê com o processamento dos dados.
+- Plataforma: Integrar sistemas locais e soluções na nuvem.
