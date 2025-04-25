@@ -24,3 +24,5 @@
 - Por banco de dados: Sistemas compartilham informações por meio de um banco de dados compartilhado, acessível por ambos.
 - Via serviços web: Facilita a comunicação entre sistemas diferentes pela internet, utilizando protocolos padrão como HTTP e SOAP.
 - Por API: Permite a comunicação entre sistemas através de uma interface padronizada, utilizando protocolos e ferramentas que definem como os dados serão trocados.
+
+
