@@ -1,0 +1,27 @@
+Assinatura Digital e Certificado Digital
+
+Definição
+
+Assinatura digital é um mecanismo criptográfico que garante a autenticidade, integridade e não-repudiação de documentos eletrônicos. Funciona como uma assinatura manual, mas no ambiente digital, usando algoritmos de criptografia assimétrica para validar quem assinou e assegurar que o conteúdo não foi alterado.
+
+Certificado digital é um arquivo eletrônico emitido por uma autoridade certificadora que vincula uma chave pública a uma identidade, seja pessoa física, jurídica ou entidade. Ele funciona como uma identidade digital para autenticação e criação de assinaturas digitais.
+
+Finalidade
+
+- A assinatura digital garante que o documento não foi alterado após a assinatura (integridade), confirma a identidade do assinante (autenticidade) e assegura que ele não possa negar a autoria (não-repudiação).
+- O certificado digital atua como identidade digital para autenticação, viabiliza assinaturas digitais com validade jurídica e oferece segurança nas transações eletrônicas.
+
+Aplicações
+
+- Assinar contratos e documentos oficiais em formato digital.
+- Emitir e validar documentos fiscais eletrônicos, como a nota fiscal eletrônica (NF-e).
+- Garantir comunicação segura por meio de e-mails criptografados.
+- Controlar o acesso em sistemas que exigem autenticação forte.
+- Realizar transações eletrônicas com validade legal.
+
+Processo de utilização
+
+1. O usuário solicita o certificado digital a uma autoridade certificadora confiável, apresentando documentos para validar a identidade.
+2. O certificado é instalado em dispositivos seguros, como tokens USB, smartcards ou no próprio computador.
+3. Usando softwares compatíveis, o usuário assina digitalmente um documento com sua chave privada vinculada ao certificado.
+4. O destinatário valida a assinatura utilizando a chave pública do certificado para garantir autenticidade e integridade do documento.
