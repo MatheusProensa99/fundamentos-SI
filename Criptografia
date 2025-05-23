@@ -1,1 +1,89 @@
+Criptografia
+
+Criptografia é uma técnica usada para proteger informações, transformando dados legíveis (texto plano) em dados codificados (texto cifrado), com o objetivo de garantir confidencialidade, integridade e autenticidade da informação. Ela é amplamente utilizada em sistemas computacionais, comunicação online, bancos de dados e aplicações seguras.
+
+1. Conceitos Básicos
+
+Antes de entender os tipos de criptografia, é importante compreender alguns conceitos fundamentais:
+
+- Texto plano: é a informação original, legível por humanos, antes de ser criptografada.
+- Texto cifrado: é o resultado da criptografia, ou seja, a informação transformada em um formato ilegível.
+- Chave criptográfica: é um valor utilizado pelo algoritmo para cifrar e/ou decifrar os dados.
+- Algoritmo de criptografia: é o método utilizado para realizar a transformação dos dados.
+
+2. Tipos de Criptografia
+
+A criptografia pode ser dividida em três categorias principais: simétrica, assimétrica e funções hash.
+
+Criptografia Simétrica
+
+Na criptografia simétrica, a mesma chave é usada para criptografar e para descriptografar os dados. Esse método é rápido e eficiente, mas exige que a chave seja compartilhada de forma segura entre as partes envolvidas.
+
+Exemplo de algoritmo: AES (Advanced Encryption Standard)
+
+Vantagens:
+- Alta performance
+- Menor consumo de recursos
+
+Desvantagens:
+- Dificuldade no gerenciamento seguro das chaves
+
+Criptografia Assimétrica
+
+Na criptografia assimétrica, são usadas duas chaves diferentes: uma pública e uma privada. A chave pública é usada para criptografar a mensagem, e a chave privada é usada para descriptografar.
+
+Exemplo de algoritmo: RSA, ECC (Elliptic Curve Cryptography)
+
+Vantagens:
+- Maior segurança no compartilhamento de dados
+- Ideal para comunicação segura entre desconhecidos
+
+Desvantagens:
+- Mais lenta do que a simétrica
+- Mais complexa de implementar
+
+Funções Hash
+
+As funções hash não são consideradas criptografia no sentido tradicional porque não podem ser revertidas. Elas transformam qualquer entrada em uma sequência de caracteres de comprimento fixo.
+
+Exemplo de função: SHA-256, SHA-3
+
+Utilizações:
+- Armazenamento de senhas
+- Verificação de integridade de arquivos
+- Assinaturas digitais
+
+3. Aplicações da Criptografia
+
+A criptografia está presente em diversas áreas da computação e segurança da informação, como:
+
+- Protocolos de navegação segura (HTTPS)
+- Armazenamento seguro de senhas em bancos de dados
+- Comunicação por aplicativos de mensagem (como WhatsApp e Signal)
+- Transações financeiras em bancos e sistemas de pagamento
+- Blockchain e criptomoedas
+- Autenticação e autorização de usuários
+
+4. Exemplo prático: HTTPS
+
+Ao acessar um site com HTTPS, seu navegador estabelece uma conexão segura com o servidor através da troca de chaves criptográficas. O processo básico inclui:
+
+1. O servidor envia um certificado digital contendo sua chave pública.
+2. O navegador verifica se o certificado é confiável.
+3. Uma chave simétrica é gerada pelo navegador e criptografada com a chave pública do servidor.
+4. O servidor descriptografa a chave e ambos passam a se comunicar usando criptografia simétrica.
+
+Esse processo garante que os dados transmitidos não possam ser interceptados ou modificados.
+
+5. Considerações Finais
+
+A criptografia é uma ferramenta essencial na proteção de dados, mas deve ser usada com boas práticas. Entre elas:
+
+- Evite algoritmos obsoletos como MD5 ou SHA-1
+- Proteja bem as chaves privadas
+- Use bibliotecas confiáveis e atualizadas
+- Combine criptografia com outras práticas de segurança, como autenticação forte e controle de acesso
+
+
+
 
